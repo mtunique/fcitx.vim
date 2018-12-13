@@ -17,6 +17,6 @@ else
   let g:fcitx_remote = 'fcitx-remote'
 endif
 runtime so/fcitx.vim
-set ttimeoutlen=1
+set ttimeoutlen=0
 finish
 
